@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+![image](placeholder.png)
+# 👨‍⚕️ Dr. Douglas Budok's Radiology Portal (MIRROR ONLY) 
+This page serves as a web portal that provides collaborators with a single access point to information and dedicated file upload services.
 
-You can use the [editor on GitHub](https://github.com/arigathanks/RadPortalMirror/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## ⚠️ Guidelines (Read me before uploading!)
+Click the **play button** "⏯️" beside the **bolded number** for a video demo and explanation. Highly recommend watching them first if this is your first time.  
+If something is still not clear, contact me at **klbc.dev@gmail.com**  
+  
+**Summary:**  
+[⏯️](https://drive.google.com/file/d/147yykKxCFz02ldhHa2ajupQUG-3Hz8cK/preview) **(1)** Filesize limit is 2GB.  
+[⏯️](https://drive.google.com/file/d/1vLesfen18mYM7t_n1D0k0c4vLk6eTUuw/preview) **(2)** Use .zip to compress files. Do not use .rar compression.  
+[⏯️](https://drive.google.com/file/d/1x8z5-LcWJBSG1v0gn0ac8YfaK3CgyUEy/preview) **(3)** Verify the files are only zipped ONCE before uploading. Look at the file extension.  
+----- Example:  
+----- 📁 patientName.zip ✔️  
+----- 📁 patientName.zip.zip ❌  
+[⏯️](https://drive.google.com/file/d/1TPlPkYWtr9ZKMd6csGOqICX9vVtcHLn6/preview) **(4)** For accompanying documents, please attach a separate file (.txt, .doc, .docx) and name it according to the patient file.  
+----- Example:  
+----- 📁 patientName.zip ✔️  
+----- 📝 patientName_history.txt ✔️  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 🖱️ Click the respective hospital and start uploading files. (No sign-in required)
 
-### Markdown
+### [① 🏥 The Medical City Iloilo ](https://www.dropbox.com/request/SdpHLAAhI0xdNePb7WKo)
+### [② 🏥 Medicus Medical Center ](https://www.dropbox.com/request/oAWEwIXFIrlPuhUn62Ao)
+### [③ 🏥 Western Visayas Medical Center ](https://www.dropbox.com/request/R32MiVic1zAm21GIxo4I)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arigathanks/RadPortalMirror/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 💭 Quick Video Guide
+![demo](demo.gif)
